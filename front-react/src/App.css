@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+#encabezado{
+  display: inline;
+}
+
+#block-nav {
+  background-color: green;
+  border-radius: 5%;
+}
+
+.items-nav {
+  display: inline;
+}
+
+.btn-nav {
+  background-color: green;
+  color: write;
+  border: 0px;
+  font-size: 35px;
+  padding: 1.2%;
+}
+
+.titulo {
+  background-color: write;
+  color: black;
+  font-size: 35px;
+  padding: 1%;
+  text-align: center;
+  float: center;
+  
+}
+
+.let-reg {
+  color: white;
+}
+
+#parrafo-home {
+  font-size: 30px;
+  padding-top: 1%;
+  margin-left: 2%;
+  margin-left: 2%;
+}
+
+#imagen-home {
+  float: left;
+  margin-left: 3%;
+  border-radius: 25px;
+}
+
+#imagen-home1 {
+  float: right;
+  margin-right: 3%;
+  border-radius:25px;
+}
+
+#imagen-logo{
+   float: left;
+   margin-top: 1%;
+   margin-left: 3%;
+}
+
+#imagen-logo2{
+  float: right;
+  margin-top: 1%;
+  margin-right: 3%;
+}
+
+.encabezado{
+  text-align: left;
+  padding: 0.5%;
+  font-size: 40px;
+}
+
+.btn-reg {
+  background-color:green;
+  color: black;
+  border-radius: 25px;
+  transition: transform 0.3s ease;
+  font-size: 50px;
+  width: 250px;
+}
+
+.form {
+  font-size: 30px;
+  color: #999;
+}
+
+.recuadro-form{
+  border-radius: 3px;
+  padding: 8px;
+  width: 400px;
+}
+
+.recuadro-tarea {
+  border-radius: 3px;
+  padding: 15px;
+  height: 80px;
+  width: 400px;
+}
